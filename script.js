@@ -33,16 +33,16 @@ $(document).ready(function(){
 
     // text animation
     var typed = new Typed(".typing", {
-        strings: ["Android Developer", "Web Developer", "Designer", "Freelancer"],
+        strings: ["Android Developer", "Web Developer", "Graphic Designer", "Freelancer"],
         typeSpeed: 100,
-        backSpeed: 60,
+        backSpeed: 80,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Android Developer", "Web Developer", "Designer", "Freelancer"],
+        strings: ["Android Developer", "Web Developer", "Graphic Designer", "Freelancer"],
         typeSpeed: 100,
-        backSpeed: 60,
+        backSpeed: 80,
         loop: true
     });
 
